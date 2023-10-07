@@ -10,5 +10,5 @@ const data00 = [
  {
   name: "Ayush Bera",
   exam: "JEE (Mains & Advance)"
- },
+ }
 ];
